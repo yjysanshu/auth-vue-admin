@@ -1,11 +1,13 @@
 # 基本权限管理系统前端
 
-后端代码：[https://github.com/yjysanshu/auth-php-admin](https://github.com/yjysanshu/auth-php-admin)
+后端代码：[https://github.com/yjysanshu/auth-php-admin](https://github.com/yjysanshu/auth-php-admin)  
 前端代码：[https://github.com/yjysanshu/auth-vue-admin](https://github.com/yjysanshu/auth-vue-admin)
 
 ## 前言
 
-这是一个简单的权限管理系统，为自己开发小项目使用；顺便贡献出来，为那些做一些小项目的同学方便，直接拿去使用
+这是一个简单的权限管理系统，为自己开发小项目使用；顺便贡献出来，为那些做一些小项目的同学方便，直接拿去使用  
+
+demo: [http://auth.yuanjy.com](http://auth.yuanjy.com)
 
 ## 本地开发
 
